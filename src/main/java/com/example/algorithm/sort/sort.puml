@@ -1,0 +1,45 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+
+* <&flag>排序算法
+** 比较排序和非比较排序
+
+*** 比较排序
+**** 冒泡排序（Bubble Sort）
+**** 选择排序（Selection Sort）
+**** 插入排序（Insertion Sort）
+**** 快速排序（Quick Sort）
+**** 归并排序（Merge Sort）
+**** 堆排序（Heap Sort）
+
+*** 非比较排序
+**** 计数排序（Counting Sort）
+**** 桶排序（Bucket Sort）
+**** 基数排序（Radix Sort）
+*** 其他
+**** 希尔排序（Shell Sort）
+
+** 内部排序和外部排序
+*** 内部排序
+**** 比较排序和非比较排序都属于这类
+*** 外部排序
+**** 多路归并排序
+**** 二路归并排序
+
+** 稳定和非稳定
+*** 稳定
+**** 冒泡排序（Bubble Sort）
+**** 插入排序（Insertion Sort）
+**** 归并排序（Merge Sort）
+**** 基数排序（Radix Sort）
+**** 计数排序（Counting Sort）
+**** 桶排序（Bucket Sort）
+
+*** 非稳定
+**** 快速排序（Quick Sort）
+**** 选择排序（Selection Sort）
+**** 希尔排序（Shell Sort）
+**** 堆排序（Heap Sort）
+
+@endmindmap
